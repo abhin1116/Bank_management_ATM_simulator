@@ -9,3 +9,4 @@ This project offers a comprehensive simulation of ATM features and banking proce
 **Transaction Variety:** Supports different transaction types, including deposits, withdrawals, and balance inquiries.
 **PIN Management:** Change or update account PIN.
 **Graceful Exit:** Ensures users can exit the system smoothly.
+![Screenshot 2024-12-27 210135](https://github.com/user-attachments/assets/9cf0e729-08e9-41be-9cc0-f798bddd1ec3)
