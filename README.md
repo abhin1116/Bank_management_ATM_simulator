@@ -9,4 +9,13 @@ This project offers a comprehensive simulation of ATM features and banking proce
 **Transaction Variety:** Supports different transaction types, including deposits, withdrawals, and balance inquiries.
 **PIN Management:** Change or update account PIN.
 **Graceful Exit:** Ensures users can exit the system smoothly.
+MiniStatement layout :
+The Mini Statement feature in the ATM simulation app provides users with an easy-to-read transaction history. This layout displays a detailed list of recent transactions performed on the user's bank account, offering insights into their financial activity.
+
+Features:
+	Transaction History: The mini statement shows a chronological list of recent transactions.
+	Transaction Type: Each transaction is labeled with its type (e.g., Deposit, Withdrawal, Transfer, etc.).
+	Amount: The monetary amount for each transaction is displayed, allowing users to see the amount added or withdrawn from their account.
+	Account Holder Name: The name of the account holder is displayed for reference, ensuring clarity in multi-user environments.
+	Date and Time: Each transaction is timestamped with the exact date and time it was performed, helping users track their activity accurately.
 ![Screenshot 2024-12-27 210135](https://github.com/user-attachments/assets/9cf0e729-08e9-41be-9cc0-f798bddd1ec3)
