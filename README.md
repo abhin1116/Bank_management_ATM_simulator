@@ -19,3 +19,4 @@ Features:
 	Account Holder Name: The name of the account holder is displayed for reference, ensuring clarity in multi-user environments.
 	Date and Time: Each transaction is timestamped with the exact date and time it was performed, helping users track their activity accurately.
 ![Screenshot 2024-12-27 210135](https://github.com/user-attachments/assets/9cf0e729-08e9-41be-9cc0-f798bddd1ec3)
+![Screenshot 2025-04-10 234922](https://github.com/user-attachments/assets/d14e0473-c5ba-4a6d-982b-69dd81da5ca9)
